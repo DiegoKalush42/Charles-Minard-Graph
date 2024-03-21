@@ -1,6 +1,9 @@
 # Charles Minard Graph
  This project is a modern reinterpretation of Charles Minard's famous graph depicting Napoleon's Russian Campaign of 1812. Utilizing Python's powerful data manipulation and visualization libraries—Matplotlib, Seaborn, Pandas, and Altair—I recreated the historical graph with an emphasis on accuracy, visual appeal, and clarity.
 
+![image](https://github.com/DiegoKalush42/Charles-Minard-Graph/assets/147668013/6f5ac7b8-6c1c-48f5-b36d-25e189850fd2)
+
+
 **Project Overview**
 The recreation of Charles Minard's graph was both a fun and challenging endeavor. It required creativity, a deep understanding of data manipulation, and an eye for design. This project not only aimed to replicate the visual representation of Napoleon's march but also to enhance it with updated data visualization techniques.
 
